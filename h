@@ -1,1 +1,6 @@
-{"Gameios" : 1, "URL1" : "", "}
+{
+  "typeValidate": "1",
+    "urlCountry": "",
+    "urlLanguage": "",
+    "ipAPI": "".
+}
