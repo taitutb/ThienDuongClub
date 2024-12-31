@@ -1,14 +1,7 @@
 [
+ 
 {
- "Country": "VN",
- "Language": ["All"]
-},
-{
- "Country": "SG",
- "Language": ["English"]
-},
-{
- "Country": "HK",
+ "Country": "US",
  "Language": ["ChineseSimplified"]
 }
 
